@@ -16,7 +16,7 @@
     "jalali-moment": "^3.1.1",
     "moment": "^2.20.1",
     "native-base": "^2.4.2",
-    "npm": "^5.6.0",
+    "npm": "^6.13.4",
     "react": "16.0.0",
     "react-native": "0.51.0",
     "react-native-animatable": "^1.2.4",
